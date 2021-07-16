@@ -1,0 +1,18 @@
+@import url(/components/reset.css);
+@import url(/components/defaults.css);
+
+@import url(/components/buttons.css);
+
+@import url(/components/text.css);
+@import url(/components/headers.css);
+@import url(/components/paragraphs.css);
+
+@import url(/components/containers.css);
+
+@import url(/components/colors.css);
+
+@import url(/components/padding.css);
+@import url(/components/margin.css);
+
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;200;300;400;500;600;700;800;900&display=swap');

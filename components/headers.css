@@ -1,0 +1,53 @@
+* {
+    font-family: 'Heebo',
+        sans-serif;
+}
+
+
+/** HEADERS, Defaults */
+.header {
+    margin: 0;
+    padding: 2px 0px;
+}
+
+/** HEADERS, One */
+.header-one,
+h1 {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+/** HEADERS, Two */
+.header-two,
+h2 {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+/** HEADERS, Three */
+.header-three,
+h3 {
+    font-size: larger;
+    font-weight: bold;
+}
+
+/** HEADERS, Four */
+.header-four,
+h4 {
+    font-size: large;
+    font-weight: bold;
+}
+
+/** HEADERS, Five */
+.header-five,
+h5 {
+    font-size: medium;
+    font-weight: bold;
+}
+
+/** HEADERS, Six */
+.header-six,
+h6 {
+    font-size: small;
+    font-weight: bold;
+}

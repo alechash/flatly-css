@@ -1,0 +1,20 @@
+/** PARAGRAPH, Defaults */
+.para {
+    font-size: small;
+}
+
+/** PARAGRAPH, Normal */
+.para-normal {
+    font-weight: normal;
+}
+
+/** PARAGRAPH, Bold */
+.para-bold {
+    font-weight: bold;
+}
+
+/** PARAGRAPH, Fine */
+.para-fine {
+    font-weight: lighter;
+    font-size: x-small;
+}

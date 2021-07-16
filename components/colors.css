@@ -1,0 +1,31 @@
+.text-white {
+    color: white;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-secondary {
+    color: orangered;
+}
+
+.text-primary {
+    background-color: blue;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-secondary {
+    background-color: orangered;
+}
+
+.bg-primary {
+    background-color: blue;
+}
